@@ -1,0 +1,33 @@
+body{
+    justify-self: center;
+    justify-items: center;
+    background-color: rgb(233, 233, 255);
+    margin-top: 100px;
+    color: white;
+    height: 100vh;
+    text-align: center;
+    background-image: url(bg/855a19394f666379808ed23b41b8dd4e.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.warning{
+    font-size: 31px;
+}
+.btns{
+    font-size: 26px;
+    margin-top: 20px;
+    padding: 7px 15px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn-for-crash{
+    background-color: red;
+    box-shadow: 2px 5px 8px rgb(250, 101, 101);
+}
+.btn-for-close{
+    background-color: blue;
+    box-shadow: 2px 5px 8px rgb(0, 110, 255);
+}
